@@ -1,5 +1,7 @@
 # Serving Tensorflow in Scala
 
+This is the code accompanying my blog post [here](https://tajd.co.uk/2023/10/15/onnx-interface-scala).
+
 ## Prerequisites
 
 - Scala 3 is installed and working with your development editor/environment of choice.
